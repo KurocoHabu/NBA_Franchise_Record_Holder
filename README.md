@@ -1,1 +1,1 @@
-# NBA_NBA_Franchise_Record_Holder
+# NBA_Franchise_Record_Holder
